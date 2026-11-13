@@ -1,0 +1,10 @@
+{
+  "description": "Portafolio UX que presenta casos prácticos y una biografía personal para mostrar la experiencia, el proceso y el trabajo de un diseñador.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
